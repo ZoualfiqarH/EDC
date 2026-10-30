@@ -1,0 +1,6 @@
+{
+  "name": "Elite Dental Clinic",
+  "description": "Comprehensive dental clinic management system with EHR, appointments, inventory alerts, invoicing, and automated profit-sharing calculations for Dr. Haya Hasan & Dr. Jafar Ateyh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
